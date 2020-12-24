@@ -4,6 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+/*
+* https://jsonplaceholder.typicode.com/
+* Free to use fake online REST API for testing and prototyping.
+* */
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
