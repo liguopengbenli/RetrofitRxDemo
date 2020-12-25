@@ -9,7 +9,7 @@ public class RetrofitInstance {
     private static Retrofit retrofit = null ;
     private static String BASE_URL =  "https://jsonplaceholder.typicode.com/";
 
-    private static PostAppService getService(){
+    public static PostAppService getService(){
 
         if(retrofit==null){
 
