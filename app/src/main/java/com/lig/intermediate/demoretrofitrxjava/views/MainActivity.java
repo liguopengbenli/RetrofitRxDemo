@@ -1,8 +1,10 @@
-package com.lig.intermediate.demoretrofitrxjava;
+package com.lig.intermediate.demoretrofitrxjava.views;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.lig.intermediate.demoretrofitrxjava.R;
 
 /*
 * https://jsonplaceholder.typicode.com/

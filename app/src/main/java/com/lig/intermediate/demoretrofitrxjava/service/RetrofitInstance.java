@@ -17,7 +17,6 @@ public class RetrofitInstance {
                                     .baseUrl(BASE_URL)
                                     .addConverterFactory(GsonConverterFactory.create())
                                     .build();
-
         }
         return retrofit.create(PostAppService.class);
     }
